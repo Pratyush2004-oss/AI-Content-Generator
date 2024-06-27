@@ -17,7 +17,6 @@ export default[
                 label: "Enter Blog Outline",
                 field: 'textarea',
                 name: 'outline',
-                required: true
             }
         ]
     },
